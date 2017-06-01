@@ -8,12 +8,21 @@ qq交流群 563636006 新建的。。。
  - [springboot 源码](https://github.com/spring-projects/spring-boot)
 
 ## spring-boot 教程
- - [Spring Boot教程 - 易百教程](http://www.yiibai.com/spring-boot/)
+ - [ Spring Boot教程 - 易百教程](http://www.yiibai.com/spring-boot/)
  - [ 翟永超 springboot 教程 ](https://github.com/dyc87112/SpringBoot-Learning) 
  - [ Spring Boot 菜鸟教程（来自csdn） ](https://github.com/je-ge/spring-boot)
  - [ 泥瓦匠BYSocket教程 ](https://github.com/JeffLi1993/springboot-learning-example)
  - [ 龙果学院教程 (部分视频收费)](https://github.com/roncoo/spring-boot-demo)
  - [ 慕课网入门视频 ](http://www.imooc.com/u/4559066/courses?sort=publish)
+ - [ csdn spring boot 学习](http://blog.csdn.net/column/details/spring-boot.html)
+ - [ 简书 springboot 专题](http://www.jianshu.com/c/f0cf6eae1754)
+ - [ liaokailin的专栏 (csdn博客)](http://blog.csdn.net/liaokailin/article/category/5765237)
+ - [ segmentfault springboot专栏 ](https://segmentfault.com/blog/spring_boot)
+ - [ 纯洁的微笑:Spring Boot系列文章 ](http://www.ityouknow.com/spring-boot)
+ - [ Spring Boot 揭秘与实战 系列 ](http://blog.720ui.com/columns/springboot_all/)
+ - [ Spring Boot干货系列](http://tengj.top/categories/Spring-Boot%E5%B9%B2%E8%B4%A7%E7%B3%BB%E5%88%97/)
+ - [ 杜琪的 springboot 博客](http://www.jianshu.com/p/7e2e5e7b32ab)
+
 
 ## spring-boot-starter
 
