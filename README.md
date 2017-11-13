@@ -20,32 +20,92 @@ springboot 各种资料整理(demo、教程、网站、starter文档等)，持�
  - [ Spring Boot 揭秘与实战 系列 ](http://blog.720ui.com/columns/springboot_all/)
  - [ Spring Boot干货系列](http://tengj.top/categories/Spring-Boot%E5%B9%B2%E8%B4%A7%E7%B3%BB%E5%88%97/)
  - [ 杜琪的 springboot 博客](http://www.jianshu.com/p/7e2e5e7b32ab)
+ - [ Spring Boot中文教程](http://majunwei.com/category/201707201858273227/)
+ - [ 《Spring Boot官方指南》(并发编程网)](http://ifeve.com/spring-boot-documentation/)
+ 
 
 
 ## spring-boot-starter
 
 ### 官方
 
-  - 待更新
+  - [activemq](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-activemq)
+  - [actuator](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-actuator)
+  - [amqp](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-amqp)
+  - [aop](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-aop)
+  - [artemis](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-artemis)
+  - [batch](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-batch)
+  - [cache](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-cache)
+  - [connectors](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-cloud-connectors)
+  - [cassandra-reactive](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-cassandra-reactive)
+  - [cassandra](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-cassandra)
+  - [couchbase](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-couchbase)
+  - [elasticsearch](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-elasticsearch)
+  - [jpa](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-jpa)
+  - [ldap](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-ldap)
+  - [mongodb-reactive](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-mongodb-reactive)
+  - [mongodb](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-mongodb)
+  - [neo4j](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-neo4j)
+  - [redis](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-redis)
+  - [rest](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-rest)
+  - [solr](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-data-solr)
+  - [freemarker](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-freemarker)
+  - [groovy-templates](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-groovy-templates)
+  - [hateoas](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-hateoas)
+  - [integration](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-integration)
+  - [jdbc](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-jdbc)
+  - [jersey](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-jersey)
+  - [jetty](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-jetty)
+  - [jooq](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-jooq)
+  - [json](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-json)
+  - [atomikos](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-jta-atomikos)
+  - [bitronix](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-jta-bitronix)
+  - [narayana](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-jta-narayana)
+  - [log4j2](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-log4j2)
+  - [logging](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-logging)
+  - [mail](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-mail)
+  - [mustache](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-mustache)
+  - [quartz](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-quartz)
+  - [netty](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-reactor-netty)
+  - [security](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-security)
+  - [facebook](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-social-facebook)
+  - [linkedin](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-social-linkedin)
+  - [twitter](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-social-twitter)
+  - [test](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-test)
+  - [thymeleaf](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-thymeleaf)
+  - [tomcat](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-tomcat)
+  - [undertow](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-undertow)
+  - [validation](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-validation)
+  - [services](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-web-services)
+  - [web](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-web)
+  - [webflux](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-webflux)
+  - [websocket](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-starters/spring-boot-starter-websocket)
+
 
 ### 非官方
 
- - [dubbo](https://github.com/teaey/spring-boot-starter-dubbo)
- - [mybatis](https://github.com/mybatis/spring-boot-starter)
- - [twitter4j](https://github.com/sivaprasadreddy/twitter4j-spring-boot-starter)
- - [jwt](https://github.com/bfwg/springboot-jwt-starter)
- - [rxjava](https://github.com/jmnarloch/rxjava-spring-boot-starter)
- - [elasticsearch](https://github.com/Nasruddin/elasticsearch-spring-boot-spring-data)
- - [grpc](https://github.com/LogNet/grpc-spring-boot-starter)
  - [angular2](https://github.com/kucharzyk/spring-angular2-starter)
+ - [dubbo](https://github.com/teaey/spring-boot-starter-dubbo)
+ - [dubbo 阿里巴巴官方](https://github.com/alibaba/spring-boot-starter-dubbo)
+ - [dubbox](https://github.com/xubinux/spring-boot-starter-dubbox)
+ - [dubbo-zipkin](https://github.com/jessyZu/dubbo-zipkin-spring-starter)
+ - [elasticsearch](https://github.com/Nasruddin/elasticsearch-spring-boot-spring-data)
+ - [grpc 1](https://github.com/LogNet/grpc-spring-boot-starter)
+ - [grpc 2](https://github.com/yidongnan/grpc-spring-boot-starter)
+ - [jade4j](https://github.com/domix/spring-boot-starter-jade4j)
+ - [jwt](https://github.com/bfwg/springboot-jwt-starter)
+ - [mybatis](https://github.com/mybatis/spring-boot-starter)
+ - [netty](https://github.com/DanielThomas/spring-boot-starter-netty)
+ - [resteasy](https://github.com/paypal/resteasy-spring-boot)
+ - [Reactive](https://github.com/bclozel/spring-boot-web-reactive)
+ - [rocketmq](https://github.com/fightingaman/springboot-starter-rocketmq)
+ - [rxjava](https://github.com/jmnarloch/rxjava-spring-boot-starter)
+ - [swagger](https://github.com/SpringForAll/spring-boot-starter-swagger)
+ - [twitter4j](https://github.com/sivaprasadreddy/twitter4j-spring-boot-starter)
  - [vuejs](https://github.com/kucharzyk/vuejs-java-starter)
  - [web-reactive](https://github.com/bclozel/spring-boot-web-reactive)
- - [resteasy](https://github.com/paypal/resteasy-spring-boot)
- - [dubbo-zipkin](https://github.com/jessyZu/dubbo-zipkin-spring-starter)
- - [netty](https://github.com/DanielThomas/spring-boot-starter-netty)
  - [wicket](https://github.com/MarcGiffing/wicket-spring-boot)
- - [jade4j](https://github.com/domix/spring-boot-starter-jade4j)
-
+ 
 ## spring-boot demo
 
  - [spring-boot-admin](https://github.com/codecentric/spring-boot-admin)
@@ -62,6 +122,8 @@ springboot 各种资料整理(demo、教程、网站、starter文档等)，持�
  - [springboot + dubbo demo](https://github.com/Percy0601/boot-dubbo)
  - [springboot angular2 demo](https://github.com/borysn/spring-boot-angular2)
  - [jwt-angular-spring](https://github.com/nielsutrecht/jwt-angular-spring)
+ - [SpringBoot-RabbitMQ](https://github.com/scalad/SpringBoot-RabbitMQ)
+ 
 
 
 ## spring-boot 书籍和文档
@@ -77,11 +139,13 @@ springboot 各种资料整理(demo、教程、网站、starter文档等)，持�
  - [泥瓦匠BYSocket 个人网站](http://www.bysocket.com/)
 
 ## spring-boot cli
-
+ 
+ - [springboot cli](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-cli)
  - [create-spring-boot-app](https://github.com/wxyyxc1992/create-spring-boot-app)
  - [jhipster:快速搭建 angular+springboot 项目](https://github.com/jhipster/generator-jhipster)
 
 ## 其他
+
 
 
 
