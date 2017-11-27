@@ -88,9 +88,11 @@ springboot 各种资料整理(demo、教程、网站、starter文档等)，持�
  - [dubbo 阿里巴巴官方](https://github.com/alibaba/spring-boot-starter-dubbo)
  - [dubbox](https://github.com/xubinux/spring-boot-starter-dubbox)
  - [dubbo-zipkin](https://github.com/jessyZu/dubbo-zipkin-spring-starter)
+ - [Druid](https://github.com/drtrang/druid-spring-boot)
  - [elasticsearch](https://github.com/Nasruddin/elasticsearch-spring-boot-spring-data)
  - [grpc 1](https://github.com/LogNet/grpc-spring-boot-starter)
  - [grpc 2](https://github.com/yidongnan/grpc-spring-boot-starter)
+ - [hbase](https://github.com/SpringForAll/spring-boot-starter-hbase)
  - [jade4j](https://github.com/domix/spring-boot-starter-jade4j)
  - [jwt](https://github.com/bfwg/springboot-jwt-starter)
  - [mybatis](https://github.com/mybatis/spring-boot-starter)
@@ -122,6 +124,7 @@ springboot 各种资料整理(demo、教程、网站、starter文档等)，持�
  - [springboot angular2 demo](https://github.com/borysn/spring-boot-angular2)
  - [jwt-angular-spring](https://github.com/nielsutrecht/jwt-angular-spring)
  - [SpringBoot-RabbitMQ](https://github.com/scalad/SpringBoot-RabbitMQ)
+
  
 
 
