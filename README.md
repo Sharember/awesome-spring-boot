@@ -13,19 +13,26 @@ springboot 各种资料整理(demo、教程、网站、starter文档等)，持�
  - [ 泥瓦匠BYSocket教程 ](https://github.com/JeffLi1993/springboot-learning-example)
  - [ 龙果学院教程 (部分视频收费)](https://github.com/roncoo/spring-boot-demo)
  - [ 慕课网入门及进阶视频 ](http://www.imooc.com/u/4559066/courses?sort=publish)
- - [ csdn spring boot 学习](http://blog.csdn.net/column/details/spring-boot.html)
+ - [ csdn-catoop的专栏 spring boot 学习](http://blog.csdn.net/column/details/spring-boot.html)
  - [ 简书 springboot 专题](http://www.jianshu.com/c/f0cf6eae1754)
  - [ liaokailin的专栏 (csdn博客)](http://blog.csdn.net/liaokailin/article/category/5765237)
  - [ 方志鹏 SpringBoot 非官方教程](http://blog.csdn.net/column/details/15397.html)
  - [ segmentfault springboot专栏 ](https://segmentfault.com/blog/spring_boot)
  - [ 纯洁的微笑:Spring Boot系列文章 ](http://www.ityouknow.com/spring-boot)
- - [ Spring Boot 揭秘与实战 系列 ](http://blog.720ui.com/columns/springboot_all/)
+ - [ 梁桂钊- Spring Boot 揭秘与实战 系列 ](http://blog.720ui.com/columns/springboot_all/)
  - [ Spring Boot干货系列](http://tengj.top/categories/Spring-Boot%E5%B9%B2%E8%B4%A7%E7%B3%BB%E5%88%97/)
  - [ 杜琪的 springboot 博客](http://www.jianshu.com/p/7e2e5e7b32ab)
  - [ Spring Boot中文教程](http://majunwei.com/category/201707201858273227/)
  - [ 《Spring Boot官方指南》(并发编程网)](http://ifeve.com/spring-boot-documentation/)
  - [ lihao312 springboot 教程（iteye）](http://lihao312.iteye.com/)
  - [ Spring Boot Tutorials(英文教程)](http://www.mkyong.com/tutorials/spring-boot-tutorials/)
+ - [ 林祥纤-从零开始学Spring Boot](http://412887952-qq-com.iteye.com/category/356333)
+ - [小柒-SpringBoot开发案例](https://blog.52itstyle.com/category/springBoot/)
+ - [江南一点雨-关于Spring Boot](http://blog.csdn.net/column/details/13987.html)
+ - [天码营-Spring Boot](https://www.tianmaying.com/tutorials/tag/Springboot)
+ - [猿天地-Spring Boot](http://cxytiandi.com/blog/detail/17437)
+ 
+
  
  ## spring-boot demo
 
